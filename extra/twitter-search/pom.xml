@@ -22,7 +22,7 @@
         <dependency>
             <groupId>com.sun.jersey.contribs.jersey-oauth</groupId>
             <artifactId>oauth-client</artifactId>
-            <version>1.11</version>
+            <version>1.19.4</version>
         </dependency>
         <dependency>
             <groupId>com.sun.jersey.contribs.jersey-oauth</groupId>
